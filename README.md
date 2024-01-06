@@ -10,9 +10,9 @@
   <p align="center">
     将文本、图片以各种方式塞进一段文本或一张图片中
     <br />
-    <a href="/blob/master/guide.md"><strong>快速上手</strong></a>
+    <a href="guide.md"><strong>快速上手</strong></a>
       ·
-     <a href="/releases"><strong>下载</strong></a>
+     <a href="//github.com/du-yuxuan/BlindWaterMask/releases"><strong>下载</strong></a>
     <br />
     <br />
    简洁至上
