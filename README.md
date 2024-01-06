@@ -11,6 +11,7 @@
     将文本、图片以各种方式塞进一段文本或一张图片中
     <br />
     <a href="guide.md"><strong>快速上手</strong></a>
+      ·<a href="https://www.bilibili.com/video/BV1Mj411h7UK?t=47.3"><strong>视频介绍</strong></a>
       ·
      <a href="//github.com/du-yuxuan/BlindWaterMask/releases"><strong>下载</strong></a>
     <br />
