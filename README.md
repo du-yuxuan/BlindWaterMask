@@ -3,7 +3,7 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/du-yuxuan/BlindWaterMask/total?style=for-the-badge&link=%2Freleases)![GitHub Repo stars](https://img.shields.io/github/stars/du-yuxuan/BlindWaterMask?style=for-the-badge)![GitHub forks](https://img.shields.io/github/forks/du-yuxuan/BlindWaterMask?style=for-the-badge)![GitHub pull requests](https://img.shields.io/github/issues-pr/du-yuxuan/BlindWaterMask?style=for-the-badge&link=%2Fpulls)![GitHub issues](https://img.shields.io/github/issues/du-yuxuan/BlindWaterMask?style=for-the-badge&link=%2Fissues)![GitHub License](https://img.shields.io/github/license/du-yuxuan/BlindWaterMask?style=for-the-badge&link=%2F%3Ftab%3DMIT-1-ov-file)
 
 <p align="center">
-  <a href="https://github.com/shaojintian/Best_README_template/">
+  <a href="//github.com/du-yuxuan/BlindWaterMask">
     <img src="assets/logo.png" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">BlindWaterMask 图文盲水印</h3>
@@ -22,6 +22,7 @@
     ·
    高性能
   </p>
+
 
 
 ## 未来的更新
