@@ -108,7 +108,7 @@
 
 #### 使用实例
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV12B4y1f7sk&page=1&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+https://www.bilibili.com/video/BV12B4y1f7sk?t=23.4
 
 ### 图片盲水印 图片
 
@@ -153,4 +153,4 @@
 
 #### 使用实例
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1dG41127oR&page=1&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+https://www.bilibili.com/video/BV1dG41127oR?t=14.2
