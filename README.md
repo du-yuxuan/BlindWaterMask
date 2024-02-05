@@ -23,6 +23,10 @@
    高性能
   </p>
 
+## 算法原作者
+[guofei](https://github.com/guofei9987)
+[text_blind_watermark](https://github.com/guofei9987/text_blind_watermark)
+[blind_watermark](https://github.com/guofei9987/blind_watermark)
 
 
 ## 未来的更新
